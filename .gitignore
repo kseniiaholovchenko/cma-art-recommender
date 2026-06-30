@@ -1,0 +1,23 @@
+# Data and ML Artifacts
+data/
+*.npy
+*.csv
+*.pt
+*.pkl
+
+# Specific Scripts
+src/eda.py
+
+# Tracking and Logs
+wandb/
+
+# Python Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Mac OS
+.DS_Store
