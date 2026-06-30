@@ -1,4 +1,4 @@
-# Cleveland Museum of Art · Semantic Explorer
+# Art recommender - Cleveland Museum of Art
 
 A semantic and visual art recommender for the Cleveland Museum of Art (CMA) collection. 
 
