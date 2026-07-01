@@ -29,3 +29,4 @@ art_env/
 # Mac OS
 .DS_Storeart_env/
 
+src/job_*.yaml
