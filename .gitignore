@@ -5,6 +5,12 @@ data/
 *.pt
 *.pkl
 
+# Allow specific data files needed for deployment
+!data/artworks_with_index.csv
+!data/embeddings.npy
+!data/image_embeddings_clip.npy
+!data/clip_index.csv
+
 # Specific Scripts
 src/eda.py
 
@@ -18,6 +24,8 @@ __pycache__/
 .venv/
 venv/
 env/
+art_env/
 
 # Mac OS
-.DS_Store
+.DS_Storeart_env/
+
